@@ -7,7 +7,7 @@ I have a specific way I like to budget and the budgeting tools I have seen or tr
 
 ### Technologies used 
 
-Python (Flask API)
-MySql (Database)
+- Python (Flask API)
+- MySql (Database)
 
 This README.md file will be updated as the program is created
